@@ -1,6 +1,6 @@
 # 🐍 Snake Game - PyGame Project
 
-Un joc simplu Snake dezvoltat în Python folosind biblioteca `pygame`. Proiect potrivit pentru portofoliu de Junior Software Engineer.
+Un joc simplu Snake dezvoltat în Python folosind biblioteca `pygame`.
 
 ## 🎮 Funcționalități
 - Mișcare controlată cu tastele săgeți
