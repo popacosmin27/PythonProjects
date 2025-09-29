@@ -1,0 +1,37 @@
+[
+  {
+    "customer": "Popa George Cosmin",
+    "address": "Calea Dragasani nr.154",
+    "phone": "0752540596",
+    "items": [
+      {
+        "name": "Crispy Spring Rolls",
+        "quantity": 1,
+        "price": 8.99
+      }
+    ],
+    "total": 8.99,
+    "timestamp": "2024-10-24T13:33:02.105811",
+    "status": "pending"
+  },
+  {
+    "customer": "Popescu Mihai",
+    "address": "pitesti",
+    "phone": "0743426732",
+    "items": [
+      {
+        "name": "Crispy Spring Rolls",
+        "quantity": 1,
+        "price": 8.99
+      },
+      {
+        "name": "Spinach Artichoke Dip",
+        "quantity": 1,
+        "price": 10.99
+      }
+    ],
+    "total": 19.98,
+    "timestamp": "2024-10-24T15:31:31.466811",
+    "status": "pending"
+  }
+]
